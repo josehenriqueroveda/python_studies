@@ -4,4 +4,4 @@
 
 - OOP concepts
 - Useful short algorithms
-
+- Functional Programming
