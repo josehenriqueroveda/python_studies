@@ -1,4 +1,4 @@
-# pythonSimpleAlgorithms
+# pythonStudies
 
 <b><h1>Python's algorithms and study.</h1></b>
 
