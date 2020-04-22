@@ -6,3 +6,4 @@
 - Useful short algorithms
 - Functional Programming
 - Lambda Expressions
+- Decorators
