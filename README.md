@@ -1,2 +1,7 @@
 # pythonSimpleAlgorithms
-Some cool and useful Python's algorithms
+
+<b><h1>Python's algorithms and study.</h1></b>
+
+- OOP concepts
+- Useful short algorithms
+
