@@ -7,3 +7,4 @@
 - Functional Programming
 - Lambda Expressions
 - Decorators
+- Regular Expressions (Regex)
